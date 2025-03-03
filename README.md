@@ -1,19 +1,6 @@
 # *Menu hamburgueria*
 menu_hamburgueria - PTI SENAC
 
-
-### Onde estão alocados 
-
-React JS
-/workspaces/menu_hamburgueria/menuhamburguer.js
-
-*https://github.com/ldematos/menu_hamburgueria/blob/main/menuhamburguer.js*
-
-CSS
-/workspaces/menu_hamburgueria/styles.css
-
-*https://github.com/ldematos/menu_hamburgueria/blob/main/styles.css*
-
 ## Telas
 *Menu*
 ![Captura de tela 2025-03-03 175707](https://github.com/user-attachments/assets/cf5ce689-6a76-42f9-bb0d-b0dab05f56ff)
