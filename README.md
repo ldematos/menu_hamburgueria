@@ -1,8 +1,6 @@
 # *Menu hamburgueria*
 menu_hamburgueria - PTI SENAC
 
-URL Online Compiler https://nextleap.app/online-compiler/reactjs-programming/kkevwy4ql
-
 ## Telas
 *Menu*
 ![Captura de tela 2025-03-03 175707](https://github.com/user-attachments/assets/cf5ce689-6a76-42f9-bb0d-b0dab05f56ff)
